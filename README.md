@@ -13,9 +13,9 @@ Analyze the dataset, understand the teams, players, rankings . Build a model pre
 4) Predict the World Cup Winner
 
 ### Approach Followed - Datapreprocessing, Exploratory Data Analysis, Data Modeling Techniques
-### Modeling Techniques-Logistic Regression, Random Forest
-### Result Analysis-Logistic Regression accuracy of 41.23%
-###                 Random Forest accuracy of 64.79%	
+### Modeling Techniques- Logistic Regression, Random Forest
+### Result Analysis- Logistic Regression accuracy of 41.23%
+###                  Random Forest accuracy of 64.79%	
 
 ### Dataset
 1) World Cup 2018 Matches-This dataset consists match fixtures of all teams along with information on previous titles, previous finalists, semi finalists and their rankings.
